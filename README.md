@@ -9,7 +9,7 @@ UK Quality Code, Advice and Guidance: Research Degrees (2018): https://www.qaa.a
 
 QAA Viewpoint: Doctoral research students – what should they expect from their academic experience? (2017) https://www.qaa.ac.uk/docs/qaa/about-us/qaa-viewpoint-doctoral-students.pdf?sfvrsn=123df681_4
 
-UK Quality Code for Higher Education Part B: Assuring and Enhancing Academic Quality. Chapter B11: Research Degrees (2013): https://www.qaa.ac.uk/docs/qaa/about-us/qaa-viewpoint-doctoral-students.pdf?sfvrsn=123df681_4 
+UK Quality Code for Higher Education Part B: Assuring and Enhancing Academic Quality. Chapter B11: Research Degrees (2013): https://www.qaa.ac.uk/docs/qaa/quality-code/chapter-b11_-research-degrees.pdf 
 
 ### Vitae
 Vitae Researcher Development Statement (2010): https://www.vitae.ac.uk/vitae-publications/rdf-related/researcher-development-statement-rds-vitae.pdf
