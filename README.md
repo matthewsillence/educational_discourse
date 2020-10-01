@@ -1,5 +1,5 @@
 # educational_discourse
-This repository contains Python scripts and resources for extracting text from a range of educational policy documents. The resulting text has whitespace trimmed, which can be used for further textual analysis, including parts of speech tagging and word frequency.
+This repository contains Python scripts and resources for extracting text from a range of educational policy documents. The resulting text can be used for further textual analysis, including parts of speech tagging and word frequency. See https://pythonspot.com/nltk-speech-tagging/ for examples of word classes.
 
 All national policy documents considered by this study are in the public domain, accessible through the following organisations as current documents, or archived through the Web Archive. Examples of these include:
 
