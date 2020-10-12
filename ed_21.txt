@@ -1,0 +1,1264 @@
+Chapter B11: Research Degrees
+
+A b o u t t h e Q u a l i t y C o d e 
+About the Quality Code 
+The UK Quality Code for Higher Education (the Quality Code) is the definitive reference point for all UK 
+higher education providers.1 It makes clear what higher education providers are required to do, what they 
+can expect of each other, and what students and the general public can expect of them. The Quality Code 
+covers all four nations of the UK (England, Northern Ireland, Scotland and Wales) and all providers of UK 
+higher education operating internationally. It protects the interests of all students, regardless of where they 
+are studying or whether they are full-time, part-time, undergraduate or postgraduate students. 
+The Quality Code has three Parts. Part A: Setting and Maintaining Academic Standards contains three 
+Chapters and seven Expectations. Each of the 11 Chapters of Part B: Assuring and Enhancing Academic 
+Quality, and Part C: Information about Higher Education Provision contain a single Expectation. An 
+Expectation expresses the key principle that the higher education community has identified as essential for 
+the assurance of academic standards and quality within the area covered by the respective Chapter or 
+Part. Higher education providers reviewed by the Quality Assurance Agency for Higher Education (QAA) 
+are required to meet all the Expectations. The manner in which they do so is their own responsibility. 
+QAA carries out reviews to check whether higher education providers are meeting the Expectations.2 
+The Expectations in Part C and each Chapter of Part B are accompanied by a series of Indicators that 
+reflect sound practice, and through which providers can demonstrate they are meeting the relevant 
+Expectation. Indicators are not designed to be used as a checklist; they are intended to help providers 
+reflect on and develop their regulations, procedures and practices to demonstrate that the Expectations in 
+the Quality Code are being met. Each Indicator is supported by an explanatory note that gives more 
+information about it, together with examples of how the Indicator may be interpreted in practice. Indicators 
+are grouped into clusters under a heading. There are no Indicators in Part A. The explanatory text 
+provided directly supports the relevant Expectation. 
+Each Part and Chapter has been developed by QAA through an extensive process of consultation with 
+higher education providers; their representative bodies; the National Union of Students; professional, 
+statutory and regulatory bodies; and other interested parties. 
+The UK Quality Code for Higher Education: General Introduction3 should be considered in conjunction with 
+this document. It provides a technical introduction for users, including guidance concerning the 
+terminology used and a quick-reference glossary. A more detailed glossary is available on QAA‘s website.4 
+The Quality Code and legislation 
+Higher education providers are responsible for meeting the requirements of legislation and any other 
+regulatory requirements placed upon them, for example by funding bodies. The Quality Code does not 
+interpret legislation nor does it incorporate statutory or regulatory requirements. Sources of information 
+about other requirements and examples of guidance and good practice are signposted within the Part or 
+Chapter where appropriate. Higher education providers are responsible for how they use these resources. 
+Equality and diversity in the Quality Code 
+The Quality Code promotes an inclusive approach by embedding consideration of equality and diversity 
+matters throughout. Promoting equality involves treating everyone with equal dignity and worth, 
+irrespective of the group or groups to which they belong, while also raising aspirations and supporting 
+achievement for people with diverse requirements, entitlements and backgrounds. An inclusive 
+environment for learning anticipates the varied requirements of learners, for example, because of a 
+declared disability, specific cultural background, location or age, and aims to ensure that all students have 
+equal access to educational opportunities. Higher education providers, staff and students all have a role in 
+and responsibility for promoting equality. 
+Equality of opportunity involves enabling access for people who have differing individual requirements as 
+well as eliminating arbitrary and unnecessary barriers to learning. In addition, disabled students and 
+non-disabled students are offered learning opportunities that are equally accessible to them, by means of 
+1
+
+inclusive design wherever possible and by means of reasonable individual adjustments wherever 
+necessary. Offering an equal opportunity to learn is distinguished from every student having an equal 
+chance of success, because this is dependent on a range of factors including their motivation and 
+engagement in learning. 
+All higher education providers have legal obligations which they must meet, for example in relation to 
+equality of opportunity and eliminating unlawful discrimination (in the UK particular considerations, such as 
+the anticipatory duty to provide reasonable adjustments, apply to disabled students). The Quality Code 
+does not seek to duplicate or interpret these requirements. 
+2
+
+A b o u t t h i s C h a p t e r 
+About this Chapter 
+This publication supersedes the Code of Practice for the Assurance of Academic Quality and Standards in 
+Higher Education (the Code of Practice), Section 6: Assessment of Students (2006) and the Guidelines on 
+the Accreditation of Prior Learning (2004) published by QAA, and forms a Chapter of the Quality Code. 
+This Chapter was subject to public consultation between June 2013 and August 2013 and was published 
+in October 2013. It became a reference point for the purposes of reviews carried out by QAA from August 
+2014. 
+Further guidelines, references and resources 
+England 
+HEFCE guidelines on research degree programmes: 
+www.hefce.ac.uk/whatwedo/rsrch/howfundr/researchdegreeprogrammes 
+3
+
+I n t r o d u c t i o n : R e s e a r c h d e g r e e s 
+Introduction: Research degrees 
+The Expectation and Indicators of sound practice in this Chapter represent the broadly shared view of 
+those responsible for research degrees about the systems, policies and procedures that are conducive to 
+an excellent experience for research students and that support higher education providers in maintaining 
+academic standards for research degrees. 
+This Chapter of the Quality Code is about doctorates and research master's degrees. It is informed by a 
+wider context in which UK research degrees are offered, including an environment of continuous 
+improvement and the desire to learn from others' experiences in research education. Below is a summary 
+of the context for both doctoral and research master's degrees, including European and international 
+reference points, graduate schools and centres for doctoral training, and international study. 
+Understanding doctoral degrees 
+Doctoral degrees are qualifications rooted in original research: the creation of new knowledge or originality 
+in the application of knowledge. The doctorate is therefore unique in the array of qualifications offered by 
+higher education providers. Other key reference points for doctoral degrees are the doctoral qualification 
+descriptors included in the national higher education qualifications frameworks (for England, Wales and 
+Northern Ireland and for Scotland)5 and QAA's Doctoral Degree Characteristics (2011).6 The latter 
+identifies significant characteristics relating to the quality and academic standards of research degrees in 
+the UK and internationally and includes a summary of the most common UK doctoral awards, including the 
+PhD, professional and practice-based doctorates and the PhD by publication. 
+Higher doctorates are not included in this Chapter of the Quality Code; they are defined in Doctoral 
+Degree Characteristics. 
+Understanding research master's degrees 
+Research master's degrees and doctorates are closely linked because of the emphasis in both on 
+independent research. Students may choose to register for a research master's degree either as a 
+stand-alone research qualification or as an entry qualification for a doctorate. A research master's degree 
+may also be awarded if a student does not complete a doctorate, for either personal or academic reasons, 
+but satisfies the academic requirements for a research master's degree. 
+Master's degrees by research may take up to two years' full-time study and are the only form of master's 
+included in this Chapter of the Quality Code. Taught master's degrees are included in the other Chapters 
+of the Quality Code. Students registered on research master's degrees spend the majority of their 
+programme undertaking independent research with supervision and guidance; they may also attend 
+structured courses to learn about research methods in the field. Master's Degree Characteristics 
+(QAA, 2010)7 summarises the main features of research master's degrees, including a general description 
+of the characteristics relevant to research master's degrees. 
+For both research master's and doctoral degrees, The Framework for Higher Education Qualifications in 
+England, Wales and Northern Ireland (FHEQ) (2008) and The Framework for Qualifications of Higher 
+Education Institutions in Scotland (FQHEIS) (2001)8 contain qualification descriptors which set out the 
+broad expected outcomes that graduates should be able to demonstrate and the wider abilities that they 
+would be expected to have developed. 
+Graduate schools and centres for doctoral training 
+Within the UK, research students are often part of a cohort; as well as having a subject identity, they may 
+belong to a graduate school and/or doctoral training centre. Doctoral training centres and other 
+arrangements where higher education providers work together to help to shape the way that many 
+doctoral students are trained, for example as part of a cohort, and because a significant proportion are 
+based on interdisciplinary research activity. Doctoral training centres seek to ensure a flow of highly 
+4
+
+qualified people into research careers. 
+Doctoral Degree Characteristics provides more detail about structured research training in both graduate 
+schools and centres for doctoral training. 
+International study 
+In international contexts, research students may be studying on overseas campuses of UK higher 
+education providers. This Chapter applies to all research students registered with a UK higher education 
+provider, including UK and international students, irrespective of the place of study. Parity of experience 
+and outcome is important, including similarly appropriate levels of infrastructure and support at all 
+locations. 
+Also relevant to the context of UK research degrees are the growing numbers of research students 
+registered on transnational, collaborative or joint programmes. Such arrangements enable increased 
+opportunities through mobility for early career researchers, both within Europe and more widely. 
+Chapter B10: Managing Higher Education with Others9 contains further guidance about delivering learning 
+opportunities with others. 
+Further guidelines, references and resources 
+UK-wide 
+QAA (2011) Doctoral Degree Characteristics 
+www.qaa.ac.uk/en/Publications/Documents/Doctoral_Characteristics.pdf 
+QAA (2010) Master's Degree Characteristics 
+www.qaa.ac.uk/en/AssuringStandardsAndQuality/Documents/Masters-Degree-Characteristics- 
+2010.pdf 
+Scotland 
+QAA (Scotland) International Benchmarking Exercise on the Postgraduate Research Degree 
+Student Experience in Scotland: 
+www.qaa.ac.uk/about-us/scotland/development-and-enhancement/learning-from-internationalpractice 
+European 
+A number of non-UK, European reference points are available for research degrees. These include 
+the following: 
+Framework for Qualifications of the European Higher Education Area (2005): 
+www.ehea.info/article-details.aspx?ArticleId=67 
+Dublin descriptors (2005) - included as Annex B to the FHEQ. 
+www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=2718 
+Salzburg Principles, as set out in the European Universities' Association's (EUA) Bologna Seminar 
+report (2005): 
+www.eua.be/eua/jsp/en/upload/Salzburg_Conclusions.1108990538850.pdf 
+Salzburg II Recommendations (this augments the existing Principles): 
+www.eua.be/Libraries/Publications_homepage_list/Salzburg_II_Recommendations.sflb.ashx 
+The Concordat to support the career development of researchers: 
+www.vitae.ac.uk/policy/vitae-concordat-vitae-2011.pdf 
+The European Charter for Researchers - The Code of Conduct for the Recruitment of Researchers: 
+http://ec.europa.eu/euraxess/index.cfm/rights/whatIsAResearcher 
+5
+
+Definitions 
+Research 
+Two general definitions of research have been used to inform the Indicators in this Chapter, especially 
+those relating directly to the research environment. They are the Frascati definition of research from the 
+relevant Organisation for Economic Cooperation and Development (OECD) manual, and the Research 
+Excellence Framework10 definition to which the UK funding councils subscribe. Both are reproduced below. 
+These are supplemented by definitions used by higher education subject communities to describe 
+excellence in research outputs and outcomes relevant to their academic field. 
+Frascati definition of research: 
+'3. Research and experimental development (R&D) comprise creative work undertaken on a systematic 
+basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and 
+the use of this stock of knowledge to devise new applications.' 
+'4. R&D is a term covering three activities: basic research, applied research, and experimental 
+development. Basic research is experimental or theoretical work undertaken primarily to acquire new 
+knowledge of the underlying foundation of phenomena and observable facts, without any particular 
+application or use in view. Applied research is also original investigation undertaken to acquire new 
+knowledge. It is, however, directed primarily towards a specific practical aim or objective. Experimental 
+development is systematic work, drawing on existing knowledge gained from research and/or practical 
+experience, that is directed to producing new materials, products or devices, to installing new processes, 
+systems and services, or to improving substantially those already produced or installed.'11 
+Definition of research for the Research Excellence Framework (REF): 
+1 'For the purposes of the REF, research is defined as a process of investigation leading to new insights, 
+effectively shared.' 
+2 'It includes work of direct relevance to the needs of commerce, industry, and to the public and voluntary 
+sectors; scholarship12; the invention and generation of ideas, images, performances, artefacts including 
+design, where these lead to new or substantially improved insights; and the use of existing knowledge in 
+experimental development to produce new or substantially improved materials, devices, products and 
+processes, including design and construction. It excludes routine testing and routine analysis of 
+materials, components and processes such as for the maintenance of national standards, as distinct from 
+the development of new analytical techniques. It also excludes the development of teaching materials 
+that do not embody original research.' 
+3 'It includes research that is published, disseminated or made publicly available in the form of 
+assessable research outputs, and confidential reports (as defined at paragraph 115 in Part 3, Section 2).' 
+Research students 
+QAA recognises the diverse needs of research students and aims to encourage consistency of provision 
+for all students, regardless of background or circumstances. The Expectation and Indicators in this 
+Chapter are therefore intended to apply to the many different types of students undertaking UK research 
+degrees. These include full and part-time students, UK and international students , students from all 
+backgrounds, and those with a range of protected characteristics and prior educational experience. Not all 
+Indicators are equally applicable to all students at all times, and wherever possible, the explanatory notes 
+recognise this. 
+External links 
+Higher education providers are responsible for ascertaining which laws and regulations apply to them. 
+To meet the Expectation of this Chapter of the Quality Code, higher education providers may wish to 
+consider the indicative lists of reference points, guidance and examples of good practice given within the 
+Chapter. QAA takes no responsibility for the content of external websites. 
+6
+
+Further guidelines, references and resources 
+UK-wide 
+The Equality Act 2010 (Specific Duties) Regulations 2011 
+www.legislation.gov.uk/uksi/2011/2260/contents/made 
+Equality Challenge Unit (2011) Public Sector Equality Duty: Specific Duties for England 
+www.ecu.ac.uk/publications/public-sector-equality-duty-specific-duties-for-england/ 
+Equality Challenge Unit (2011) The Public Sector Equality Duty: Specific Duties for Wales 
+www.ecu.ac.uk/publications/the-public-sector-equality-duty-specific-duties-for-wales/ 
+Equality Challenge Unit (2010) Anti-Discrimination Law in Northern Ireland 
+www.ecu.ac.uk/publications/anti-discrimination-law-in-northern-ireland/ 
+Equality Act 2010 
+www.legislation.gov.uk/ukpga/2010/15/contents 
+Research Excellence Framework: 
+www.ref.ac.uk 
+7
+
+E x p e c t a t i o n 
+Expectation 
+This Chapter of the Quality Code sets out the following Expectation about research degrees which higher 
+education providers are required to meet: 
+Research degrees are awarded in a research environment that provides secure academic 
+standards for doing research and learning about research approaches, methods, 
+procedures and protocols. This environment offers students quality of opportunities and 
+the support they need to achieve successful academic, personal and professional 
+outcomes from their research degrees. 
+8
+
+I n d i c a t o r s o f s o u n d p r a c t i c e 
+Indicators of sound practice 
+H i g h e r e d u c a t i o n p r o v i d e r a r r a n g e m e n t s 
+Higher education provider arrangements 
+Higher education providers offering research degrees safeguard the academic standards of such 
+programmes by putting in place arrangements that enable them to be delivered according to national and, 
+where relevant, international expectations. Appropriate support and guidance is provided to enable 
+research students, supervisors, examiners, and other staff involved in research degrees to fulfil their 
+responsibilities and to enable research students to complete their degrees successfully. 
+Indicator 1 
+Higher education providers that are research degree awarding bodies have regulations 
+for research degrees that are clear and readily available to research students and staff, 
+including examiners. Where appropriate, regulations are supplemented by similarly 
+accessible, subject-specific guidance at the level of the faculty, school, department, 
+research centre, or research institute. 
+Higher education providers have in place academic frameworks and regulations, policies and guidance 
+(the respective status of each of these being defined by the provider) specific to research degrees. 
+These are revised and updated regularly, to take account of developments and innovation (see Chapter 
+A2: Degree-Awarding Bodies‘ Reference Points for Academic Standards). 
+Explicit academic frameworks and regulations, policies and guidance for research degrees may include: 
+requirements for recruitment to the programme 
+support and guidance that helps students to ensure that, as far as possible, they have chosen a 
+programme that is right for them 
+procedures for considering claims for the recognition of prior learning 
+supervision arrangements 
+support structures at different organisational levels, for example department, school, faculty, doctoral 
+training centre, graduate school, research centre, or research institute 
+academic and procedural requirements for particular postgraduate research qualifications, including the 
+requirements for progression, monitoring and review for each qualification and the minimum and 
+maximum periods within which the programme may be completed 
+assessment methods, requirements and procedures, including the criteria for achieving the qualification 
+research integrity and ethics, including avoiding plagiarism, and intellectual property rights and 
+responsibilities 
+complaints and appeals processes. 
+9
+
+Indicator 2 
+Higher education providers develop, implement and keep under review codes of practice 
+for research degrees, which are widely applicable and help enable the higher education 
+provider meet the Expectation of this Chapter. The codes are readily available to all 
+students and staff involved in research degrees, and written in clear language 
+understood by all users. 
+Higher education providers use both external and internal guidance when developing their own codes of 
+practice for research degrees. Such codes form an integral part of quality assurance mechanisms and are 
+designed to assure the quality and maintain the academic standards of research degrees, bringing 
+consistency to research degree provision. They help both prospective and current research students and 
+staff to know what their responsibilities are and what they can expect from one another. Guidance at field 
+or subject level, for example in handbooks, provides useful additional advice for research students and 
+staff and is consistent with academic frameworks and regulations at a wider organisational level. All codes 
+and related guidance are written clearly for, and are accessible to, those who need to use them and 
+contain sufficient information for all intended users, including any externally located supervisors. 
+Higher education providers alert applicants to the relevant codes of practice at an early stage in the 
+recruitment process. They also check that new research students are aware of the academic frameworks 
+and regulations and other guidance relating to their registration and degree programme. 
+Indicator 3 
+Higher education providers monitor their research degree provision against internal and 
+external indicators and targets that reflect the context in which research degrees are 
+being offered. 
+Higher education providers define what constitutes success in the broad subject areas in which research 
+degrees are undertaken, where appropriate guided by national and international expectations. In setting 
+targets and monitoring indicators, higher education providers take into account equality objectives, the 
+diverse modes of study and types of their research degrees and, where appropriate, professional 
+practitioner and professional, statutory and regulatory body requirements. 
+Higher education providers use statistical information interpreted by those with in-depth knowledge of the 
+context and environment. Formal opportunities are provided for relevant committees and groups to 
+consider statistical and other information relating to research degrees and to act upon it. Higher education 
+providers include research students in these processes (See Chapter B5: Student Engagement and 
+Chapter B8: Programme Monitoring and Review). 
+Factors to be considered when collecting evidence to evaluate the success of research degrees (including 
+as part of an annual monitoring process) may include: 
+submission and completion times and rates, with account taken of any variations (for example relating to 
+individual research students' circumstances, part-time programmes and the requirements of research 
+councils, sponsors or other relevant bodies) 
+pass, referral and fail rates 
+withdrawal rates 
+the number of appeals and complaints, the reasons for them, and how many are upheld 
+analysis of comments from examiners 
+recruitment profiles 
+10
+
+feedback from research students (as individuals and collectively), employers , sponsors and other 
+external funders 
+information on subsequent employment destinations and career paths of research students who have 
+achieved the qualification. 
+T h e r e s e a r c h e n v i r o m e n t 
+The research environment 
+In each research environment a range of factors appropriate to the subject, research students and 
+research degrees involved can be used to demonstrate its quality. National and international reference 
+points provide subject-specific benchmarks appropriate to individual disciplines, which may also be 
+influenced by professional requirements . In order to bring about continous enhancement higher 
+education providers consider how they develop their research environment. 
+Indicator 4 
+Higher education providers accept research students only into an environment that 
+provides support for doing and learning about research, and where excellent research, 
+recognised by the relevant subject community, is occurring. 
+The research environment and infrastructure, which may be located in or among more than one higher 
+education provider, or across higher education and a work setting (for example in industry), provides a 
+suitable context for the conduct of the kind of research in question and is capable of supporting the range 
+of research students being recruited. The environment allows for research students' changing needs and 
+requirements as the programme develops, including providing an adequate amount of academic and, if 
+relevant, work or practice-based supervision of an appropriate quality. The environment is enabling and 
+instructional, and is conceived of as a place of learning as well as of research productivity. 
+Factors that can be used to indicate excellence in interdisciplinary, multidisciplinary or single-disciplinary 
+research may include: 
+demonstrable research achievement as recognised either through peer assessment as internationally 
+excellent or above; or consistently recognised by the award of grants in open competition with, in both 
+cases, outputs such as journal publications, books, and work produced in other media, including 
+engineering, performing arts, sculpture, fine art and design, and other professional practice-based and 
+clinical contexts 
+sufficient numbers of research-active staff, including postdoctoral researchers and research students 
+(either located at the provider or included in collaborative or networked arrangements) 
+knowledge exchange and impacts (including knowledge transfer partnerships), with an emphasis on the 
+practical impact of research outcomes and demonstrable ability to attract external funding. 
+An environment suitable for doing and learning about research and for encouraging research 
+achievement, whether directly as a provider or through the delivery of learning opportunities with others, 
+enables research students to make judgements requiring creativity and critical independent thought while 
+accepting that uncertainty is a feature of the conduct of research programmes. Such an environment 
+enables students to grapple with challenges that develop intellectual maturity and encourage a high level 
+of reflection on the student's own learning about research as well as on research outcomes. Research 
+students are encouraged to contribute actively to their research environment, whether in a research team 
+where their own research forms part of a larger research programme, or working independently on a 
+self-contained project. 
+In establishing an environment conducive to research students acquiring the range of research and 
+personal skills that are likely to be needed by early career researchers, higher education providers may 
+consider the Vitae Researcher Development Statement13 (see Appendix 3), which is endorsed by QAA. 
+Higher education providers supply explicit information about the progress research students make with 
+their research concerning timely submission and successful completion periods in ways that are clear and 
+11
+
+readily accessible to research students and supervisors. This may vary depending on sponsors, where 
+relevant, and by the mode of study of the student (for example, full-time or part-time) and according to the 
+needs of subjects and individual students. 
+An appropriate environment in which to do and learn about research may include: 
+exposure to researchers working at the highest level in the student's chosen field and in cognate and 
+related disciplines 
+opportunities and encouragement to work and exchange ideas with people and organisations using 
+research outcomes for their own purposes and with colleagues in the wider research environment 
+access to academic and other colleagues able to give advice and support 
+adequate learning and research tools including access to IT equipment, library and electronic 
+publications 
+opportunities for research students to develop peer support networks where issues or problems can be 
+discussed informally (this could include access to social space provided for the purpose) 
+supervision (see also the section on Supervision, Indicators 9-12) that encourages the development 
+and successful pursuit of a programme of research 
+guidance on the ethical pursuit of research and the avoidance of research misconduct, including 
+plagiarism and breaches of intellectual property rights 
+support in developing research-related skills and access to a range of development opportunities that 
+contribute to the student's ability to complete the programme successfully (including, where appropriate, 
+understanding issues of funding and its commercial exploitation) 
+access to and support for a range of development opportunities that contribute to the research 
+student's ability to develop personal and, where pertinent, employment -related skills 
+availability of relevant advice on career development. 
+An environment supportive of research achievement may include: 
+a collegial community of academic staff and postgraduates conducting excellent research in cognate 
+areas 
+supervisors with the necessary skills and knowledge to support research students in working towards 
+the successful completion of their research degrees 
+access to the facilities and equipment necessary to enable research students, in all modes of study, to 
+complete their research degrees successfully 
+access to welfare and support facilities that recognise the distinctive nature of research degree study 
+the opportunity for research students to raise complaints or appeal 
+mechanisms for addressing research students' feedback both as individuals and collectively 
+sufficient implementation and monitoring mechanisms to ensure that where a project is undertaken in 
+collaboration with another organisation, the standards of both organisations are maintained. 
+See Chapter B3: Learning and Teaching; Chapter B4: Enabling Student Development and Achievement 
+and Chapter B6: Assessment of Students and the Recognition of Prior Learning. 
+Arrangements for research degrees where learning opportunities are delivered with others, including joint, 
+dual/double and multiple awards, adhere to the guidance set out in Chapter B10: Managing Higher 
+Education with Others.14 Higher education providers put in place clear contractual arrangements between 
+the organisations involved and with individual research students where appropriate. The agreements 
+reflect the entitlements and responsibilities associated with different forms of arrangement, including: 
+determining whether the qualification will be awarded jointly or by multiple research degree-awarding 
+bodies and addressing the implications, especially for the research student 
+assuring that all parties responsibilities and requirements are specified and met 
+ensuring any contracts and agreements for working with others are relevant and fit for purpose 
+(depending on whether they relate to individuals or larger groups of research students, and whether 
+they involve industrial or commercial bodies or other academic organisations, either in the UK, other 
+European countries, or elsewhere internationally). 
+12
+
+Further guidelines, references and resources 
+UK-wide 
+Vitae Research Development Statement and Research Development Framework: 
+www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework/
+the-vitae-researcher-development-statement 
+www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework/
+about-the-vitae-researcher-development-framework 
+England and Wales 
+Supplementary notes: Taught and Research Degree Awarding Powers (England and Wales) 
+January 2012: 
+www.qaa.ac.uk/en/Publications/Documents/Supplementary-notes-DAP-12.pdf 
+S e l e c t i o n , a d m i s s i o n a n d i n d u c t i o n o f s t u d e n t s 
+Selection, admission and induction of students 
+The Indicators below, and the accompanying explanatory notes, highlight the importance of clear 
+admissions and induction procedures and requirements, and the need for fair and consistently applied 
+admissions policies. Material relevant to this section can also be found in Chapter B2: Recruitment, 
+Selection and Admission to Higher Education.15 
+Indicator 5 
+Higher education providers' admissions procedures for research degrees are clear, 
+consistently applied and demonstrate equality of opportunity. 
+Higher education providers adopt fair procedures and make available accurate information on admissions 
+processes for research degrees to applicants and staff involved in a widely accessible format (see Part C: 
+Information about Higher Education Provision16 of the Quality Code). 
+Higher education providers ensure that students have the information to make sure they are on a 
+programme that is right for them. 
+Through the use of timely and comprehensive development opportunities, higher education providers also 
+ensure that staff responsible for admissions are aware of, and understand, legal requirements relating to 
+the processes and the need to conform to such legislation. 
+As part of the admissions processes for research degrees, higher education providers put in place 
+monitoring arrangements for equal opportunities requirements to satisfy themselves that: 
+the programmes comply with with internal and external guidance 
+an effective support infrastructure is in place for all research students, taking account of mode of study, 
+subject needs and individual circumstances 
+applicants are made aware of opportunities to apply for additional or special funding and how to apply 
+for such funds. 
+13
+
+Indicator 6 
+Only appropriately qualified and prepared applicants are admitted to research degree 
+programmes. Admissions decisions involve at least two members of the higher education 
+provider's staff who have received training and guidance for the selection and admission 
+of research degree students. The decision-making process enables the higher education 
+provider to assure itself that balanced and independent admissions decisions have been 
+made in accordance with its admissions policy. 
+For doctoral research, applicants are expected to have at least one of the following: 
+an undergraduate degree, usually with class 2:1 or equivalent in a relevant subject 
+a relevant master's qualification or equivalent evidence of prior professional practice or learning that 
+meets the higher education provider's criteria and guidelines for the recognition of prior learning for the 
+purpose of meeting entry requirements for a programme (including, for example, the required amount of 
+prior publications or other output specified for applicants for the award of PhD by published work). 
+Higher education providers ensure guidance about admissions is accessible to both recruiters and 
+prospective students and provides training to enable those involved in admissions decision making to fulfil 
+their role effectively and efficiently. 
+Admissions staff consider, if relevant, how interviews with applicants might be used as part of the 
+admissions process (including arrangements for assessing the suitability of those based overseas and 
+working at a distance). 
+In addition to familiarising applicants and selectors with the provider's admissions policies, guidance 
+covers the use of references and other information used to assess the suitability of an applicant to 
+undertake postgraduate research. 
+Higher education providers put in place suitable criteria for assessing the applicant‘s qualifications and 
+preparedness, including considering evidence submitted in support of any requests made for the 
+recognition of prior learning gained through professional practice or other appropriate work experience or 
+study. 
+Higher education providers take account of the applicant's motivation and potential to complete the 
+programme. The latter may be affected by his or her financial circumstances, and for this reason higher 
+education providers give clear guidance to applicants at the earliest opportunity about their financial 
+responsibilities and the consequences of being unable to meet their commitments. 
+Higher education providers specify the level of English language competence appropriate for entry to the 
+degree. A process is consistently applied to determine whether or not applicants meet this level of 
+competence. Higher education providers provide support for applicants that have demonstrated their 
+academic abilities but are admitted to research degrees on the condition that their English must be 
+improved. Applicants may expect support in the form of timely opportunities to improve their language skills 
+to a level consistent with producing a thesis (or equivalent) that meets the requirements of the higher 
+education provider in both grammar and style, and that enables them to defend their thesis sufficiently well 
+during the oral examination. 
+For quality assurance purposes and to help selectors, higher education providers supply clear guidance 
+about the balance of responsibilities between staff in local units and those working in central postgraduate 
+administration. 
+14
+
+Indicator 7 
+Higher education providers define and communicate clearly the responsibilities and 
+entitlements of students undertaking research degree programmes. 
+Higher education providers' offers to successful applicants for research degrees are communicated 
+formally, for example in a letter (hard copy or electronic) that is specific to the individual applicant. 
+This constitutes a contract between the applicant and the provider. The terms of the letter are binding on 
+the higher education provider and, upon acceptance, on the applicant. Where responsibilities for induction 
+and related matters are shared, for example between more than one department, school, faculty, research 
+centre/institute, or between a graduate school, doctoral training centre and/or any of the above 
+organisational units, the role of each is articulated clearly at the earliest opportunity. 
+The offer letter and enclosures may refer to: 
+the expected total fees, including extra charges (such as 'bench' fees) which will be levied, and any 
+other expenditure on practical items relevant to the individual applicant 
+the expected period of study for which the applicant will be enrolled 
+the requirements placed by the higher education provider on the applicant (for example, engaging in 
+training on research methods and other relevant topics, progress reports, contact with supervisors) 
+arrangements for enrolment/registration 
+how to find the relevant academic framework and regulations, student handbook, sources of funding 
+(including additional and special funding, eligibility and how to apply for such funds), and other relevant 
+information for a research degree 
+the responsibilities of the applicant for his or her academic studies and candidacy for a research degree 
+the requirements and conditions of any sponsor (if known) 
+opportunities to undertake teaching or other duties and any conditions associated with these, including 
+training requirements of the higher education provider (to be confirmed at the beginning of the 
+programme unless already part of the funding arrangements) 
+practical information, for example concerning accommodation, finances or travel. 
+Higher education providers' policies, practices and requirements with respect to intellectual property rights 
+(including arrangements, where relevant, with external commercial or industrial organisations with their 
+own intellectual property rights arrangements ) are made clear to applicants and to any relevant third party 
+(see Part C: Information about Higher Education Provision).17 
+Other information is provided when an applicant has accepted an offer, for example as part of the 
+induction process, and may include handbooks, details of health and safety procedures, regulations 
+concerning plagiarism and good practice in research, guidance on research ethics, and how a higher 
+education provider views personal conduct and academic performance (see Chapter B4: Enabling Student 
+Development and Achievement). 
+Higher education providers inform research students of their responsibilities at the beginning of their 
+programme. 
+Research students' responsibilities may include: 
+their own personal and professional development, including, where possible, recognising when they 
+need help and seeking it in a timely manner 
+maintaining regular contact with supervisors (joint responsibility with supervisors) 
+preparing adequately for meetings with supervisors 
+setting and keeping to timetables and deadlines, including planning and submitting work as and when 
+required and generally maintaining satisfactory progress with the programme of research 
+15
+
+maintaining research records in such a way that they can be accessed and understood by anyone with 
+a legitimate need to see them 
+raising awareness of any specific needs or circumstances likely to affect their work 
+attending any development opportunities (research-related or other) that have been identified when 
+agreeing their development needs with their supervisors (see explanation with Indicator 9 below) 
+being familiar with the regulations and policies that affect them, including those relating to their 
+qualification, health and safety, intellectual property, electronic repositories, and ethical research (see 
+also Indicator 4 and Indicator 8). 
+Indicator 8 
+Research students are provided with sufficient information to enable them to begin their 
+studies with an understanding of the environment in which they will be working. 
+Higher education providers ensure that the timing and content of induction programmes is appropriate and 
+relevant to the diverse needs of specific groups of research students (including part-time and newly 
+arriving international students , and those with professional commitments). Induction is delivered at the 
+most suitable organisational level (provider/faculty/school/department/research centre/research institute, 
+or a combination). 
+New research students are provided with details about where they can find essential information. Higher 
+education providers put in place arrangements for ongoing support for research students (see Chapter 
+B4: Enabling Student Development and Achievement). 
+Information produced for incoming research students includes details about supervision arrangements, 
+and evaluation, monitoring and review procedures. During the induction process, research students are 
+provided with details of opportunities that exist for meeting other research students and staff, and for 
+developing scholarly competence and independent thought. 
+Each student is provided with an early opportunity to meet his/her supervisor to agree on plans for the 
+programme. 
+The plans that the research student and supervisor agree for the programme include the following: 
+the initial objectives of the research, taking account of the sponsor's requirements where appropriate 
+the development and general educational needs of the research student 
+the means by which the research student and supervisor (or supervisors - see Indicator 10) will 
+communicate and how they will arrange regular meetings 
+the means of monitoring progress in the research and training aspects of the programme. 
+16
+
+Further guidelines, references and resources 
+UK-wide 
+Equality Act 2010 
+www.legislation.gov.uk/ukpga/2010/15/contents 
+QAA (2012) International Students Studying in the UK - Guidance for UK Higher Education 
+Providers 
+www.qaa.ac.uk/en/Publications/Documents/International-students-studying-in-the-UK.pdf 
+Vitae Research Development Statement and Research Development Framework: 
+www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework/
+the-vitae-researcher-development-statement 
+www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework 
+S u p e r v i s i o n 
+Supervision 
+The research student-supervisor relationship is of paramount importance in all research degrees. 
+Higher education providers therefore establish systematic and clear supervision arrangements. These 
+include providing research students with: 
+opportunities for access to regular and appropriate supervisory support 
+encouragement to interact with other researchers 
+advice from one or more independent sources, internal or external 
+arrangements that protect the research student in the event of the loss of a supervisor. 
+These points are covered in more detail by the following Indicators. They provide a framework for the 
+minimum requirement for research student supervision. 
+Indicator 9 
+Higher education providers appoint supervisors with the appropriate skills and subject 
+knowledge to support and encourage research students, and to monitor their progress 
+effectively. 
+To ensure that all supervisors possess the expertise required for their role, higher education providers 
+use criteria for eligibility in appointing supervisors, whose performance in the role is kept under review. 
+Supervisors are expected to engage in development opportunities, to equip them to supervise research 
+students, and to meet requirements for continuing professional development. Supervisor training and 
+development opportunities are relevant to research education, providing advice on how to supervise 
+research students effectively in different circumstances, and are given similar status to programmes on 
+teaching and learning in higher education for new academic staff. In supporting supervisors to enhance 
+their knowledge and skills, higher education providers define and enable sharing of good practice and 
+encourage strategies such as mentoring relationships, for example for new supervisors. 
+To ensure consistency of supervision, supervisors working in industry or professional practice are made 
+aware of and enabled to fulfil the higher education provider's expectations of the supervisor role and are 
+offered opportunities to engage in developmental activities. 
+17
+
+Indicator 10 
+Each research student has a supervisory team containing a main supervisor who is the 
+clearly identified point of contact. 
+Supervision arrangements vary depending on the structure for research student support that the higher 
+education provider adopts, and on any guidance provided by the funding body where relevant. 
+New research students are made aware when they can expect their supervisors to be appointed. 
+Involvement with a supervisory team provides valuable development opportunities for staff, giving them a 
+grounding in the skills required to become an effective research supervisor. In addition to the main 
+supervisor, the supervisory team may include: 
+other supervisors and research staff in the subject 
+a departmental adviser to postgraduate students 
+a faculty postgraduate tutor 
+other individuals in similar roles. 
+Breadth of experience and knowledge across the supervisory team ensures that the student always has 
+access to someone with experience of supporting research students through to successful completion of 
+their programme. 
+In all cases, each research student has an identified single point of contact who is the main supervisor. It is 
+made clear to the research student who the alternative contact is if the main supervisor is not available. 
+This may either be the second supervisor or an additional designated member of academic staff able to 
+provide advice and support. To avoid misunderstandings, the names, contact details and responsibilities 
+of the main and other supervisors are provided to research students at registration and readily available 
+throughout their programme. 
+Higher education providers ensure that students are easily able to contact their supervisors for advice and 
+guidance throughout their programme, irrespective of their geographical location. Reasonable accessibility 
+of supervisors is given priority and providers assure themselves that research students and supervisors 
+are aware of the importance of this, and have a shared understanding of what is reasonable. 
+Between them, the supervisors and, where relevant, other members of the supervisory team, ensure that 
+research students receive sufficient support and guidance to facilitate their success. 
+At least one member of a student's supervisory team is currently engaged in excellent research in the 
+relevant discipline(s), ensuring that the direction and monitoring of the student's progress is informed by 
+up to date subject knowledge and research developments. 
+If and when a main supervisor is not able to continue supervising the research student, another 
+appropriate supervisor is appointed to assume the role. 
+Higher education providers take a view on how long a main supervisor may be absent before a permanent 
+replacement is appointed, bearing in mind the importance of providing breadth and continuity of 
+supervision for the research student in determining this period. In some circumstances, another supervisor 
+is asked to assume the role of main supervisor while a replacement main supervisor is found. 
+If a research student-supervisor relationship is not working well, alternative independent sources of advice 
+are made available to the research student. By mutual agreement between the research student and the 
+higher education provider, and where permitted by the terms of any sponsorship agreement, supervisory 
+responsibilities can be changed, at the request of either the research student or a supervisor. 
+18
+
+Indicator 11 
+Higher education providers ensure that the responsibilities of research student 
+supervisors are readily available and clearly communicated to supervisors and students. 
+Supervisors and research students are made fully aware of the extent of one another's responsibilities, to 
+enable both to understand the supervisors' contribution to supporting the research student and where the 
+supervisors' responsibilities end. 
+Supervisors are sensitive to the diverse needs of individual research students and the associated support 
+that may be required in different circumstances. Higher education providers ensure that supervisors are 
+aware of the range of support available, and communicate to their research students how they can access 
+it. Higher education providers ensure that relevant documents concerning these responsibilities are readily 
+available to research students and supervisors in a format that is easily accessible to the research 
+student. 
+Higher education providers develop their own staff guidance on the minimum frequency of contact 
+advisable between research students and supervisors, as well as details of procedures for dealing with 
+extensions and suspensions of study. Including this information in the academic framework and regulations 
+and guidance (see Indicator 2) may be helpful to research students and supervisors. 
+Arrangements between the research student and supervisor may be kept flexible, as long as both are 
+satisfied that adequate support is being provided for the research student and that there are sufficient 
+opportunities for formally monitoring progress. As well as providing opportunities for formal interaction, 
+higher education providers expect research students and supervisors to meet informally, and frequently 
+enough to address the research student's need for general guidance. 
+Research students and supervisors are jointly responsible for ensuring that regular and frequent contact 
+is maintained. Provision is made for the research student, as well as the supervisor, to take the initiative 
+when necessary. The nature and frequency of contact between research student and supervisor varies 
+depending on the duration of the programme, the way the research is being conducted, and the amount of 
+support needed by the research student. 
+Taking account of these considerations, the following are agreed by and clear to both research student 
+and supervisor from the start of the programme: 
+the minimum frequency of scheduled meetings between research student and supervisor, or 
+supervisory team, and the purpose of such meetings 
+guidance on the nature and style of the research student-supervisor interaction, including discussions 
+about academic and personal progress. 
+The responsibilities of supervisors may be set out in guidance issued by the higher education provider or 
+by any sponsor(s). They may include: 
+introducing the research student to the department (or equivalent), its facilities and procedures, and to 
+other research students and relevant staff 
+providing satisfactory and accurate guidance and advice 
+monitoring the progress of the research student's research programme 
+establishing and maintaining regular contact with the research student (guided by the higher education 
+provider's stated academic framework and regulations and guidance) 
+being accessible to the research student to give advice (by whatever means is most suitable, given the 
+research student's location and mode of study) 
+contributing to the assessment of the research student's development needs 
+providing timely, constructive and effective feedback on the research student's work and overall 
+progress within the programme 
+19
+
+ensuring that the research student is aware of the need to exercise probity and conduct his or her 
+research according to ethical principles, including intellectual property rights, and of the implications of 
+research misconduct 
+ensuring that the research student is aware of sources of advice, including careers guidance 
+helping research students understand health and safety responsibilities 
+providing effective pastoral support and/or referring the research student to other sources of such 
+support, including student advisers, graduate school staff and others within the research student's 
+academic community 
+helping the research student to interact with others working in the field of research, for example 
+encouraging the research student to attend relevant conferences and supporting him/her in seeking 
+funding for such events 
+where appropriate, giving encouragement and guidance to the research student on the submission of 
+conference papers and articles to refereed journals 
+maintaining the necessary supervisory expertise, including the appropriate skills, to perform all of the 
+role satisfactorily, supported by relevant continuing professional development opportunities. 
+Indicator 12 
+Higher education providers ensure that individual supervisors have sufficient time to 
+carry out their responsibilities effectively. 
+In appointing supervisors, managers need to be aware of and guided by the overall workload of the 
+individual, including teaching, research, administration and other responsibilities; for example, external 
+examining duties and other professional commitments, such as consultancy or clinical responsibilities. 
+The role of supervisors is critical in maintaining quality and academic standards when supporting research 
+students' research, and higher education providers therefore find ways of showing their support for and 
+rewarding this valuable contribution to the research environment. 
+Higher education providers ensure that supervisors have sufficient time for adequate contact with each 
+research student to fulfil the responsibilities listed under Indicator 11. Supervisors and research students 
+agree between themselves the level of interaction required and what constitutes sufficient contact (which 
+may vary year by year to reflect the research student's changing needs), in terms of both the quality and 
+the quantity of the time allocated. When a research student needs advice or guidance, supervisors 
+respond within a reasonable timescale. 
+Further guidelines, references and resources 
+UK-wide 
+Vitae Research Development Statement and Research Development Framework: 
+www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework/
+the-vitae-researcher-development-statement 
+www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework 
+20
+
+P r o g r e s s a n d r e v i e w a r r a n g e m e n t s 
+Progress and review arrangements 
+Regular and structured interaction is necessary between research students and supervisors to enable 
+research students to progress satisfactorily. Higher education providers alert research students and 
+supervisors to the requirements of the progress and review process, including knowledge of their 
+respective responsibilities. 
+Indicator 13 covers all types of review of research student progress, including meetings between the 
+research student and the supervisors, and meetings of other individuals, such as members of an annual 
+review panel. There are two distinct types of review: meetings that deal with formal review of the research 
+student's progress and forward planning, and informal meetings where the research student and members 
+of the supervisory team meet to discuss general matters relating to the student's research. 
+Indicator 13 
+Higher education providers put in place clearly defined mechanisms for monitoring and 
+supporting research student progress, including formal and explicit reviews of progress 
+at different stages. Research students, supervisors and other relevant staff are made 
+aware of progress monitoring mechanisms, including the importance of keeping 
+appropriate records of the outcomes of meetings and related activities. 
+The main purpose of the monitoring process is to provide overall support for the research student to 
+maximise his or her likelihood of completing the research programme successfully within an appropriate 
+timescale. The purpose and frequency of monitoring arrangements are made clear from the outset, so that 
+both the research student and the supervisor can plan adequately for them, prepare relevant documents, 
+and consult other individuals as appropriate. 
+The monitoring process also enables staff to ascertain when a research student's progress is not 
+satisfactory. Support is given to help the research student make improvements. 
+Higher education providers put in place processes for reviewing research students' progress, involving 
+individuals independent of the supervisors and the research student. Such processes operate less 
+regularly than meetings between research student and supervisor and may involve, for example, an 
+annual review by a panel or other specified body such as a research degrees committee. A significant 
+progress review is undertaken at specific points in a research student's programme, for example when 
+completing probationary periods of training or transferring from a research master's to a doctoral degree. 
+The student is present at this review. In professional or practice-based doctorates, there may be a 
+requirement for research students to pass structured elements of a programme before progressing. 
+Formal evaluation of progress in these circumstances may involve summative assessment. 
+The target dates of expected review stages throughout the programme, such as those referred to above, 
+are agreed by and clear to both research student and supervisors. 
+Higher education providers make clear to research students and supervisors from the beginning of the 
+programme: 
+the implications of the possible outcomes of formal review meetings or assessments 
+the criteria to be used for making decisions about the extension, suspension or termination of a 
+research student's registration 
+the circumstances in which research student appeal mechanisms may be used and how to use them. 
+Regulations specify the minimum and maximum periods within which the research student can complete 
+the research programme. Bearing these in mind, decisions about transferring a student's registration to a 
+doctoral qualification, or confirming such a registration, take place when there is sufficient evidence to 
+assess the student's performance. The research student usually provides, as a minimum, a written 
+21
+
+submission which is considered by a panel independent of the research student and the supervisory team 
+and which includes the research student's main supervisor (as an observer). Research students can 
+request the opportunity to meet a review panel without the supervisors being present. 
+Guidance in this area is made easily accessible to all concerned. It may take the form of advice about the 
+operation of the panel and the kind of records that need to be kept in relation to different types of meeting 
+and review. For example, the information that is recorded after an informal meeting that takes place 
+regularly between the research student and his or her supervisor is likely to be different from and less 
+detailed than the formal record of a meeting to consider an application to transfer to a doctoral degree or 
+a meeting of an annual review panel. It may be considered important for research students to keep the 
+record of regular 'routine' meetings with supervisors, who also keep copies of records of supervisory 
+meetings. 
+D e v e l o p m e n t o f r e s e a r c h a n d o t h e r s k i l l s 
+Development of research and other skills 
+The importance of acquiring research and other skills during research degree programmes is recognised 
+by research students, academic staff, sponsoring organisations, employers, and doctoral graduates. 
+These skills improve the research student's ability to complete the research degree successfully. 
+The development and application of such skills is a significant element in the research graduate's 
+capability for sustaining learning throughout his or her career, whether in an academic role or in other 
+employment. Research students are encouraged to take ownership and responsibility for their own 
+learning, during and after their programme of study, and to recognise the value of developing transferable 
+skills. Material relevant to this section will also be found in Chapter B4: Enabling Student Development 
+and Achievement.18 
+Indicator 14 
+Research students have appropriate opportunities for developing research, personal 
+and professional skills. Each research student's development needs are identified and 
+agreed jointly by the student and appropriate staff at the start of the degree; these are 
+regularly reviewed and updated as appropriate. 
+Research students may need support to develop their subject-specific, research, communication and 
+other skills they require to become effective researchers, to enhance their employability and assist their 
+career progress after completion of their degree. These skills may to varying extents be present on 
+commencement and require further development; to be explicitly taught; or to be developed during the 
+research programme. 
+Opportunities for developing personal and professional skills take account of the differing needs of 
+individual research students arising from the diversity both of their prior experience and of the 
+environments in which they may later draw upon these skills. A range of mechanisms are used to support 
+learning, and they are sufficiently flexible to address those individual needs. The emphasis in formal 
+training is on quality, relevance and timeliness. 
+Opportunities for skills development are integrated in research degrees. Depending on the nature of the 
+subject and the needs of the research student, personal and professional development opportunities for 
+research students are provided with the aim being to maximise the effectiveness of training in developing 
+skills, both research and generic. 
+In deciding which elements of research and skills development to make mandatory, higher education 
+providers take into account advice from research councils and other sources. To ensure research 
+students' needs are being met, providers regularly review the training in research and generic skills 
+provided for their research students. 
+Opportunities for skills development are made available either by the higher education provider offering 
+22
+
+the research student's research programme, or by other providers; for example through regional or other 
+collaboration. 
+Higher education providers draw on their experience of structured training and education to establish 
+personal and professional development opportunities for the benefit of research students. The extent to 
+which research students are required to take advantage of these opportunities is often negotiated through 
+the supervision process, taking account of subject and individual needs. 
+Supporting the learning and teaching of others, and if appropriate assessing student work, provides 
+research students with an opportunity to develop a range of personal skills. It can also reinforce research 
+students' own knowledge of their subject. Higher education providers may offer research students 
+non-compulsory teaching opportunities; in some circumstances and subjects: these may be limited and not 
+necessarily available to all research students. Where research students have teaching roles, they receive 
+appropriate training, support and mentoring; for their own benefit and to safeguard the experience of the 
+students they are teaching . Where possible higher education providers enable research students to be 
+part of a larger teaching team so that they can benefit from the support and mentoring provided by 
+experienced teachers. They ensure that teaching duties are not so intensive or time-consuming as to 
+affect the research student's ability to complete (see Chapter B3: Learning and Teaching and Chapter B6: 
+Assessment of Students and the Recognition of Prior Learning). 
+Students are encouraged to reflect on their learning, supported by frameworks developed by providers for 
+recording personal development. 
+Higher education providers ensure that research students who may be unfamiliar with keeping records of 
+their progress and development receive additional guidance and support. Higher education providers may 
+develop ways of formally recognising the acquisition of transferable skills in parallel with, or as part of, the 
+academic assessment of the research student's progress. 
+Further guidelines, references and resources 
+UK-wide 
+Vitae Research Development Statement and Research Development Framework: 
+www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework/
+the-vitae-researcher-development-statement 
+www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework 
+E v a l u a t i o n m e c h a n i s m s 
+23
+
+Evaluation mechanisms 
+Collecting and acting upon evaluation from research students, staff, examiners, and others involved in 
+research programmes is an important part of the quality assurance process at all levels (higher education 
+provider/faculty/school/department/research centre/research institute). Wherever possible and relevant, 
+providers integrate the results of external surveys with internal evaluation mechanisms. 
+Indicator 15 
+Higher education providers put in place mechanisms to collect, review and respond as 
+appropriate to evaluations from those concerned with research degrees, including 
+individual research students and groups of research students or their representatives. 
+Evaluations are considered openly and constructively and the results are communicated 
+appropriately. 
+Higher education providers establish and operate constructive evaluation procedures that are as 
+representative as possible of the views of all those involved. These include mechanisms for seeking, 
+analysing and acting upon feedback from the following groups: 
+current research students and recent research degree graduates 
+supervisors, review panels and internal examiners 
+research administrators 
+external parties, including external examiners, sponsors, other organisations with whom the higher 
+education provider works, employers and, where possible, alumni. 
+(See also list of suggested evaluation factors under Indicator 3). 
+Individual evaluation mechanisms enable students, if they wish, to provide confidential views that are not 
+made known to their supervisors unless the research student's permission is given. 
+Higher education providers use the evaluations in an appropriate format in their quality assurance 
+processes, as part of the regular review of academic standards and quality. The feedback and review 
+cycle occurs at least annually. Information about action taken in response to evaluations is clear and made 
+easily and promptly available to those involved (see also Chapter B5: Student Engagement).19 
+Further guidelines, references and resources 
+UK-wide 
+Higher Education Academy Postgraduate Research Experience Survey (PRES): 
+www.heacademy.ac.uk/PRES 
+A s s e s s m e n t 
+Assessment 
+Assessment processes for research qualifications reflect the distinctive nature of research degrees and 
+include an oral examination. The following three Indicators and explanations address the most important 
+elements of assessment for research students and qualifications. 
+Material relevant to this section may also be found in Part A: Setting and Maintaining Academic Standards 
+and Chapter B6: Assessment of Students and the Recognition of Prior Learning.20 
+24
+
+Indicator 16 
+Higher education providers that are research degree awarding bodies use criteria for 
+assessing research degrees that enable them to define their academic standards and the 
+achievements of their graduates. The criteria used to assess research degrees are clear 
+and readily available to research students, staff and examiners. 
+In setting criteria for assessing different types of research degrees, research degree-awarding bodies 
+refer to the qualification descriptors for doctoral and research master's degrees in the national higher 
+education qualifications frameworks (or their equivalent). Research degree-awarding bodies use the 
+qualification nomenclature in these documents, including the guidance on the use of titles for research 
+degrees of different kinds. Assessment criteria may be modified to reflect differences in subjects such as 
+the performing or visual arts and those of professional and practice-based doctorates and doctorates by 
+published work. 
+Research degree-awarding bodies safeguard the academic integrity and consistency of such programmes 
+and qualifications internally and externally, by applying assessment criteria for research degrees, taking 
+account of the academic standards summarised in the UK qualification descriptors for doctoral degrees 
+and research master's degrees. They make assessment criteria available to research students to give 
+them the insight they need into what is expected of them. Criteria enable research students to show the full 
+extent of their abilities and achievements at the level of the qualification for which they are aiming. 
+They also offer practical advice for research students, for example on the required presentation of work, 
+what is meant by originality, and about best academic practice. 
+When making an award at a different level from the qualification for which the student has initially been 
+assessed (for example giving a master's award to a PhD candidate), research degree-awarding bodies 
+use assessment criteria that enable examiners to recognise the research student's positive achievement 
+(see Chapter A3: Securing Academic Standards and an Outcomes-Based Approach to Academic Awards). 
+Indicator 17 
+Research degree final assessment procedures are clear and are operated rigorously, 
+fairly, and consistently. They include input from an external examiner and are carried out 
+to a reasonable timescale. Assessment procedures are communicated clearly to research 
+students, supervisors and examiners. 
+Although there is some variation between higher education providers and between different types of 
+research degree, common features of research degree assessment procedures in the UK system are as 
+follows. 
+The candidate is examined on the basis of an appropriate body of work and an oral examination (viva 
+voce or viva). 
+As a minimum, two appropriately qualified examiners are appointed for the purpose, at least one of 
+whom is external to the higher education provider and the research degree-awarding body. Where more 
+than two examiners are appointed, the majority are generally from outside the higher education provider 
+and the research degree-awarding body 
+None of the candidate's supervisors is appointed as an examiner. 
+It is exceptional to appoint as internal or external examiner researchers who have had substantial 
+co-authoring or collaborative involvement in the candidate's work or whose own work is the focus of the 
+research project. 
+Examiners submit separate, independent written reports before the viva and a joint report after it. 
+25
+
+The following are given careful consideration: 
+the criteria to be used in appointing examiners 
+the preparatory period prior to the viva 
+how the viva will be conducted 
+how and when the result will be communicated to the candidate 
+how to handle cases where the examiners cannot reach a consensus 
+the criteria to be used for selecting external examiners when they have had previous affiliations with the 
+research degree-awarding body or the provider. 
+More details on some of these are given below. 
+The criteria used in appointing examiners determine how many examiners are to be appointed and 
+other details. Higher education providers that are research degree-awarding bodies may appoint 
+additional external examiners where the research student is also a member of staff, or in cases where the 
+thesis is highly interdisciplinary. There is a methodology for establishing that the examiners have relevant 
+qualifications and experience and a clear understanding of the task, and for determining in what 
+circumstances and with what support an inexperienced examiner might be appointed. The higher 
+education provider also decides what guidance is to be given to the examiners. 
+The preparatory period prior to the viva includes providing the examiners with the information they 
+need and ensuring that they are able to identify the areas to be explored at the viva. Thought is given to 
+the procedures for handling such reports, including to whom they should be submitted and when. 
+In planning how the viva will be conducted, higher education providers satisfy themselves that 
+the process meets agreed criteria for fairness and consistency. Higher education providers that are 
+research degree-awarding bodies may appoint an independent, non-examining chair, who may not 
+contribute to the assessment judgement. Such an appointment, and clear guidance on the extent of the 
+chair's role and responsibilities, including details about the circumstances in which the chair will be used, 
+encourages consistency between different vivas and provides an additional viewpoint if the conduct of the 
+viva should become the subject of a research student appeal. Where the appointment of an independent 
+chair is not feasible, higher education providers that are research degree-awarding bodies find alternative 
+ways of assuring fairness and consistency, acceptable to the candidate, that enable him or her to know 
+the viva is being conducted in an appropriate manner. Higher education providers that are research 
+degree-awarding bodies also take a view on whether the student's supervisor may be present with the 
+research student's agreement, and if so, on what basis, making it clear that s/he may not contribute to the 
+academic judgement; whether other people may be present (for example, current research students); 
+and whether it would be helpful to ask for an account of how the viva was conducted. 
+How and when the result will be communicated to the candidate is affected by the result itself, 
+among other factors. It involves giving thought to: 
+the range of assessment outcomes open to the examiners, including referral, or awarding a qualification 
+different from the one for which the research student has been examined 
+the nature and source of guidance to be given if a research student is asked to revise and re-submit the 
+thesis 
+the various parties who need to be notified of the result (for example the research student's sponsor). 
+Research degree-awarding bodies also assure themselves that the research programme assessments 
+carried out in its name address appropriate assessment criteria which are informed by this Indicator. 
+For example, a higher education provider may decide to have a system for reading examiners' report(s) 
+similar to that in place for reading external examiners' reports at undergraduate and taught master's 
+levels, which would highlight any relevant comments or suggestions from examiners about the conduct of 
+the final examination. Additionally, keeping a log to ensure that the process is being conducted promptly 
+on the grounds that undue delay is unfair to the candidate may be considered. 
+The main official source of information on research degree assessment is the academic framework and 
+regulations of the research degree-awarding body. These are likely to be written in semi-legal language, 
+because they may be used in formal complaints and appeals processes. The higher education provider 
+may therefore choose to supplement regulations with a guide that provides candidates and staff with a 
+26
+
+clear understanding of the assessment process and its implications, explained from the research student's 
+perspective. Information is given about timings and deadlines; the assessment process itself; the time 
+taken to reach a decision; and the potential outcomes of the assessment. In particular, candidates are 
+warned of the penalties for plagiarism, and reminded of the significance of declaring that the material 
+being presented for examination is their own work. 
+As the viva is an especially challenging event in research students' careers, higher education providers 
+offer support in preparing for it. Support may include providing written guidance and/or making 
+arrangements for the candidate to undergo a mock viva or other similar experience. 
+Higher education providers also determine whether and when candidates should be given copies of the 
+report and whether this should be the final report only, or the final report and the separate independent 
+reports prepared before the viva. Examiners' reports can provide an important source of feedback if made 
+accessible to candidates; where reports are made available, examiners are informed of this policy in 
+advance. 
+R e s e a r c h s t u d e n t c o m p l a i n t s a n d a p p e a l s 
+Research student complaints and appeals 
+It is in the interests of research students and higher education providers to resolve problems at an early 
+stage. To facilitate this, higher education providers ensure that research students and staff understand 
+the difference between informal ways of resolving problems and routes they can use to make formal 
+complaints or appeals. It is also important to distinguish between complaints, which relate to general 
+matters (including conduct), and appeals, which concern procedures leading to specific outcomes or 
+decisions. Research degree-awarding bodies develop their own definitions of complaints and appeals, 
+and assure themselves that staff and students are aware of the different procedures. 
+Material relevant to this and the following two sections may also be found in Chapter B9: Academic 
+Appeals and Student Complaints.21 
+Indicator 18 
+Higher education providers put in place and promote independent and formal 
+procedures for dealing with complaints and appeals that are fair, clear to all concerned, 
+robust, and applied consistently. The acceptable grounds for complaints and appeals are 
+clearly defined. 
+Procedures for addressing complaints and appeals at various organisational levels (degree-awarding 
+body/faculty/school/department/research centre/research institute), are clearly and openly publicised to 
+research students. They apply equally to all research students, including those who are part-time, off-site, 
+registered on programmes delivered with others, or on visiting programmes. The importance of resolving 
+any problems at an early stage is made clear to research students and staff. All concerned are made 
+aware of the stages and processes, informal and formal, through which complaints and appeals can be 
+made. 
+Higher education providers ensure that their faculties, schools and departments have accessible 
+mechanisms that apply when research students are not able to resolve difficulties informally. To assist in 
+resolving problems at an early stage, providers appoint an impartial person/persons with suitable 
+experience to whom research students can take their complaints, and whose role is widely publicised. 
+Complaints 
+Higher education providers implement complaints procedures that are appropriate for use by research 
+students. These include an indicative timetable for dealing with different types of complaint; some may 
+need to be dealt with more quickly than others. 
+27
+
+Higher education providers highlight to research students their responsibilities in relation to pursuing a 
+complaint, and the need for them to discharge these. On receipt of a formal complaint, higher education 
+providers inform research students promptly of the actions that they will take in order to investigate and 
+resolve the issue. 
+Appeals 
+All appeals procedures are fit for purpose, impartial and well publicised to protect the rights of all those 
+concerned. They are dealt with fairly and in a timely manner. 
+Research degree-awarding bodies define the acceptable grounds for and how to lodge an appeal. 
+This information is communicated to all research students. An accessible explanation of the appeals 
+process is provided, including: 
+how decisions are taken to grant an appeal hearing 
+the constitution of an appeal panel, and the relation of its members to those involved in the original 
+assessment decision 
+information for research students about presenting their case 
+how records of an appeal hearing are maintained 
+the mechanisms for communicating the results of an appeal hearing to interested parties. 
+Further guidelines, references and resources 
+England and Wales 
+Office of the Independent Adjudicator for Higher Education (OIA): 
+www.oiahe.org.uk 
+Scotland 
+Scottish Public Sector Ombudsman (SPSO): 
+www.spso.org.uk 
+(Currently there is no comparable arrangement in Northern Ireland, although students at the 
+Universities of Ulster and Queen's each have access to their University's Visitor). 
+28
+
+A p p e n d i x 1 - T h e E x p e c t a t i o n a n d I n d i c a t o r s : R e s e a r c h D e g r e e s 
+Appendix 1 - The Expectation and Indicators 
+Research Degrees 
+Expectation 
+This Chapter of the Quality Code sets out the following Expectation about research degrees which higher 
+education providers are required to meet: 
+Research degrees are awarded in a research environment that provides secure academic 
+standards for doing research and learning about research approaches, methods, 
+procedures and protocols. This environment offers students quality of opportunities and 
+the support they need to achieve successful academic, personal and professional 
+outcomes from their research degrees. 
+The Indicators of sound practice 
+Indicator 1 
+Higher education providers that are research degree awarding bodies have regulations for research 
+degrees that are clear and readily available to research students and staff, including examiners. Where 
+appropriate, regulations are supplemented by similarly accessible, subject-specific guidance at the level of 
+the faculty, school, department, research centre, or research institute. 
+Indicator 2 
+Higher education providers develop, implement and keep under review codes of practice for research 
+degrees, which are widely applicable and help enable the higher education provider meet the Expectation 
+of this Chapter. The codes are readily available to all students and staff involved in research degrees, and 
+written in clear language understood by all users. 
+Indicator 3 
+Higher education providers monitor their research degree provision against internal and external 
+indicators and targets that reflect the context in which research degrees are being offered. 
+Indicator 4 
+Higher education providers accept research students only into an environment that provides support for 
+doing and learning about research, and where excellent research, recognised by the relevant subject 
+community, is occurring. 
+Indicator 5 
+Higher education providers' admissions procedures for research degrees are clear, consistently applied 
+and demonstrate equality of opportunity. 
+Indicator 6 
+Only appropriately qualified and prepared applicants are admitted to research degree programmes. 
+Admissions decisions involve at least two members of the higher education provider's staff who have 
+received training and guidance for the selection and admission of research degree students. The 
+decision-making process enables the higher education provider to assure itself that balanced and 
+independent admissions decisions have been made in accordance with its admissions policy. 
+29
+
+Indicator 7 
+Higher education providers define and communicate clearly the responsibilities and entitlements of 
+students undertaking research degree programmes. 
+Indicator 8 
+Research students are provided with sufficient information to enable them to begin their studies with an 
+understanding of the environment in which they will be working. 
+Indicator 9 
+Higher education providers appoint supervisors with the appropriate skills and subject knowledge to 
+support and encourage research students, and to monitor their progress effectively. 
+Indicator 10 
+Each research student has a supervisory team containing a main supervisor who is the clearly identified 
+point of contact. 
+Indicator 11 
+Higher education providers ensure that the responsibilities of research student supervisors are readily 
+available and clearly communicated to supervisors and students. 
+Indicator 12 
+Higher education providers ensure that individual supervisors have sufficient time to carry out their 
+responsibilities effectively. 
+Indicator 13 
+Higher education providers put in place clearly defined mechanisms for monitoring and supporting 
+research student progress, including formal and explicit reviews of progress at different stages. Research 
+students, supervisors and other relevant staff are made aware of progress monitoring mechanisms, 
+including the importance of keeping appropriate records of the outcomes of meetings and related 
+activities. 
+Indicator 14 
+Research students have appropriate opportunities for developing research, personal and professional 
+skills. Each research student's development needs are identified and agreed jointly by the student and 
+appropriate staff at the start of the degree; these are regularly reviewed and updated as appropriate. 
+Indicator 15 
+Higher education providers put in place mechanisms to collect, review and respond as appropriate to 
+evaluations from those concerned with research degrees, including individual research students and 
+groups of research students or their representatives. Evaluations are considered openly and 
+constructively and the results are communicated appropriately. 
+Indicator 16 
+Higher education providers that are research degree awarding bodies use criteria for assessing research 
+degrees that enable them to define their academic standards and the achievements of their graduates. 
+The criteria used to assess research degrees are clear and readily available to research students, staff 
+and examiners. 
+Indicator 17 
+Research degree final assessment procedures are clear and are operated rigorously, fairly, and 
+consistently. They include input from an external examiner and are carried out to a reasonable timescale. 
+Assessment procedures are communicated clearly to research students, supervisors and examiners. 
+30
+
+Indicator 18 
+Higher education providers put in place and promote independent and formal procedures for dealing with 
+complaints and appeals that are fair, clear to all concerned, robust, and applied consistently. The 
+acceptable grounds for complaints and appeals are clearly defined. 
+31
+
+A p p e n d i x 2 - M e m b e r s o f t h e A d v i s o r y G r o u p f o r C h a p t e r B 1 1 : R e s e a r c h D e g r e e s 
+Appendix 2 - Members of the Advisory Group for 
+Chapter B11: Research Degrees 
+Janet Bohrer Assistant Director QAA 
+Dr Iain 
+Cameron Head of Research Careers and Diversity Research Councils UK 
+Gill Clarke Specialist writer 
+Dr Rob Daley Researcher Development Coordinator Heriot-Watt University 
+Professor 
+Pam Denicolo Vice Chair UK Council for Graduate 
+Education (UKCGE) 
+Dr Dawn 
+Edwards Director of Quality Assurance and Enhancement Royal Northern College of Music 
+Dr Kevin Flint Chair of Special Interest Group (SIG)/Senior Lecturer in 
+Education 
+Professional Doctorates 
+SIG/Nottingham Trent University 
+Heather 
+Gibson Development Officer QAA Scotland 
+Louisa Green Research Degrees Manager London School of Economics 
+Dr Susan 
+Grey Director of Research Degrees University of Hertfordshire 
+Dr Peter 
+Heard Executive Director, Graduate School Glyndwr University 
+Dr Cathy 
+Kerfoot Development Officer QAA 
+Professor 
+Ingrid Lunt 
+Professor of Educational Studies and Director of 
+Graduate Studies, Department of Education University of Oxford 
+Dr Debbie 
+McVitty Senior Research and Policy Officer (Higher Education) NUS 
+32
+
+Dante 
+Micheaux 
+NUS postgraduate representative and Postgraduate 
+Association President University College London 
+Steven 
+Quigley Academic Registrar Regents College 
+Dr Christian 
+Yeomans Policy Officer (Europe) International Unit 
+33
+
+A p p e n d i x 3 - R e s e a r c h e r D e v e l o p m e n t F r a m e w o r k 
+Appendix 3 - Researcher Development 
+Framework 
+Researcher Development Framework: 
+www.qaa.ac.uk/en/AssuringStandardsAndQuality/Documents/Quality-Code-B11-Appendix-3.pdf 
+34
+
+R e f e r e n c e s 
+References 
+1 www.qaa.ac.uk/qualitycode 
+2 www.qaa.ac.uk/reviews-and-reports/how-we-review-higher-education 
+3 www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=181 
+4 www.qaa.ac.uk/about-us/glossary 
+5 www.qaa.ac.uk/assuring-standards-and-quality/the-quality-code/qualifications 
+6 www.qaa.ac.uk/en/Publications/Documents/Doctoral_Characteristics.pdf 
+7 www.qaa.ac.uk/en/Publications/Documents/Masters-Degree-Characteristics-2010.pdf 
+8 www.qaa.ac.uk/assuring-standards-and-quality/the-quality-code/qualifications 
+9 www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=2899 
+10 www.ref.ac.uk 
+11 Second chapter of the OECD 1993 Frascati Manual (reference: ISBN 9264142029) 
+12 Scholarship for the REF is defined as the creation, development and maintenance of the intellectual 
+infrastructure of subjects and disciplines, in forms such as dictionaries, scholarly editions, catalogues and 
+contributions to major research databases. 
+13 www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-developmentframework/
+the-vitae-researcher-development-statement 
+14 www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=2899 
+15 www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=173 
+16 www.qaa.ac.uk/assuring-standards-and-quality/the-quality-code/quality-code-part-c 
+17 www.qaa.ac.uk/assuring-standards-and-quality/the-quality-code/quality-code-part-c 
+18 www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=2898 
+19 www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=2900 
+20 www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=176 
+21 www.qaa.ac.uk/publications/information-and-guidance/publication?PubID=178 
+35
+
+© The Quality Assurance Agency for Higher Education 2018 
+Southgate House, Southgate Street, Gloucester, GL1 1UB 
+Tel: 01452 557000 
+Email: enquiries@qaa.ac.uk 
+Website: www.qaa.ac.uk 
+Registered charity numbers 1062746 and SC037786 
+This document was downloaded from the QAA website on 03 May 2018 
+36
+
